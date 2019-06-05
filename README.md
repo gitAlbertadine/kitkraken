@@ -16,4 +16,4 @@
 `$ rsync --archive --chown=$USER:$USER ~/.ssh /home/said`
 #### Step7-log in with you username:
 `$ ssh said@your_server_ip`
-for issue test
+
